@@ -1,0 +1,15 @@
+.header-container{
+    height: 70px;
+    background-color: rgb(241, 166, 26);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color : rgb(248, 246, 246)
+}
+
+.menu-icon{
+    height: 30px;
+    width : 30px;
+    cursor: pointer;
+}
+

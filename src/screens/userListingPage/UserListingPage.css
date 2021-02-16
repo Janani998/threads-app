@@ -1,0 +1,17 @@
+#users{
+    display: block;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container{
+    height: 90%;
+    width: 44%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 16px;
+}

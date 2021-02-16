@@ -1,0 +1,18 @@
+.main-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.show-users-button{
+    cursor: pointer;
+    height: 50px;
+    width : 200px;
+    color : white;
+    border: none;
+    background-color: rgb(58, 58, 218);
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 12px;
+}
